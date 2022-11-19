@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rud2403&show_icons=true&theme=tokyonight) 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rud2403)](https://solved.ac/rud2403/)
@@ -32,5 +32,10 @@
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white">
         
+  
+## 👨‍💻Follow Me
+  <img src="https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white&link=https://bgm16.tistory.com/">
+  <img src="https://img.shields.io/badge/Naver Mail-303C75A.svg?&style=flat-square&logo=Naver&logoColor=white&link=qkrrudals2403@naver.com">
+  
 </div>
 
