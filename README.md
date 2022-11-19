@@ -34,8 +34,12 @@
         
   
 ## 👨‍💻Follow Me
-  <img src="https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white&link=https://bgm16.tistory.com/">
-  <img src="https://img.shields.io/badge/Naver Mail-303C75A.svg?&style=flat-square&logo=Naver&logoColor=white&link=qkrrudals2403@naver.com">
+  <a href="https://bgm16.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white&link=https://bgm16.tistory.com/">
+  </a>
+  <a href="qkrrudals2403@naver.com">
+    <img src="https://img.shields.io/badge/Naver Mail-303C75A.svg?&style=flat-square&logo=Naver&logoColor=white&link=qkrrudals2403@naver.com">
+  </a>
   
 </div>
 
