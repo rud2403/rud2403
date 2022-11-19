@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white&link=https://bgm16.tistory.com/">
   </a>
   <a href="mailto:qkrrudals2403@naver.com">
-    <img src="https://img.shields.io/badge/Mail-303C75A.svg?&style=flat-square&logo=Naver&logoColor=white&link=qkrrudals2403@naver.com">
+    <img src="https://img.shields.io/badge/qkrrudals2403@naver.com-303C75A.svg?&style=flat-square&logo=Naver&logoColor=white&link=qkrrudals2403@naver.com">
   </a>
   
 </div>
