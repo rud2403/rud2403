@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white">
   
-### IDES
+### IDEs
   
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ-000000.svg?&style=flat-square&logo=IntelliJ IDEA&logoColor=white">
