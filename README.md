@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/Linear-5E6AD2.svg?&style=flat-square&logo=Linear&logoColor=white">
-  <img src="https://img.shields.io/badge/Linear-5E6AD2.svg?&style=flat-square&logo=Linear&logoColor=white">
+  
   
 ## ✨ Follow Me ✨
   <a href="https://bgm16.tistory.com/">
