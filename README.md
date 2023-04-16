@@ -21,6 +21,7 @@
   
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat-square&logo=GitLab&logoColor=white">
   
 ### IDEs
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white">
