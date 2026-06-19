@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Gyeongmin Park
+# 👋 Hi, I'm Gyoungmin Bak
 
 ### Backend Developer | Performance Optimization | Data Platform
 
